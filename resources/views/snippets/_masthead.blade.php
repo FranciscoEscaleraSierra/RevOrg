@@ -3,7 +3,7 @@
   <div class="container h-100">
     <div class="row h-100">
       <div class="col-12 my-auto text-center text-white">
-        <img class="masthead-img img-fluid mb-3" src="img/culinary/profile.png" alt="">
+        <img class="masthead-img img-fluid mb-3" src="img_rev_org/profile.jpg" alt="">
       </div>
     </div>
   </div>

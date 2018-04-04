@@ -786,6 +786,16 @@ header.video .scroll-down {
   }
 }
 
+#subscribe-form .form-group .form-control {
+  border-color: white;
+  border-radius: 0;
+}
+
+#contact-form .form-group .form-control {
+  border-color: white;
+  border-radius: 0;
+}
+
 .signup-form .input-group .form-control {
   border: 0;
   border-color: white;
@@ -947,6 +957,22 @@ footer.footer .copyright {
   box-shadow: 0 0 0 3px rgba(194, 180, 154, 0.5) !important;
 }
 
+.btn-tertiary {
+  background-color: #272727;
+  color: white;
+}
+
+.btn-tertiary:active, .btn-tertiary:focus, .btn-tertiary:hover {
+  color: white !important;
+  border-color: #C2B49A !important;
+  background-color: #C2B49A !important;
+}
+
+.btn-tertiary:active, .btn-tertiary:focus {
+  -webkit-box-shadow: 0 0 0 3px rgba(194, 180, 154, 0.5) !important;
+  box-shadow: 0 0 0 3px rgba(194, 180, 154, 0.5) !important;
+}
+
 button:hover {
   cursor: pointer;
 }
@@ -1033,4 +1059,12 @@ a.text-primary:focus, a.text-primary:hover {
 
 .owl-carousel.owl-theme.portfolio-carousel .owl-controls .owl-next {
   right: 0;
+}
+.white-popup-block {
+  position: relative;
+  background: #ffffff;
+  padding: 20px;
+  width: auto;
+  max-width: 500px;
+  margin: 20px auto;
 }

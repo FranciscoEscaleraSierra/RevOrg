@@ -2,9 +2,9 @@
 <section class="page-section services" id="values">
   <div class="container">
     <div class="text-center wow fadeIn">
-      <h2>Our Values</h2>
+      <h2>Nuestros Principios</h2>
       <hr class="colored">
-      <p class="mb-0">We create flavorsome, traditional dishes using fresh, local ingredients.</p>
+      <p class="mb-0">Horneamos pizzas sabrosas y tradicionales con frescos ingredientes locales.</p>
     </div>
     <div class="row mt-4">
       <!-- Service Item 1 -->
@@ -14,19 +14,19 @@
             <i class="fa fa-shopping-cart rounded-circle"></i>
           </div>
           <div class="media-body">
-            <h3 class="media-heading">Ingredients</h3>
+            <h3 class="media-heading">Ingredientes</h3>
             <ul>
               <li>
-                <em>Fresh, local ingredients</em>
+                <em>Frescos, locales ingredientes</em>
               </li>
               <li>
-                <em>All natural and organic</em>
+                <em>Todo natural y organico</em>
               </li>
               <li>
-                <em>Carefully hand selected</em>
+                <em>Cuidadosamente seleccionado a mano</em>
               </li>
               <li>
-                <em>Tested for quality and taste</em>
+                <em>Probado por calidad y sabor</em>
               </li>
             </ul>
           </div>
@@ -39,19 +39,19 @@
             <i class="fa fa-cutlery rounded-circle"></i>
           </div>
           <div class="media-body">
-            <h3 class="media-heading">Technique</h3>
+            <h3 class="media-heading">Técnica</h3>
             <ul>
               <li>
-                <em>Traditional preparation</em>
+                <em>Preparación tradicional</em>
               </li>
               <li>
-                <em>Classic combinations</em>
+                <em>Combinaciones clásicas</em>
               </li>
               <li>
-                <em>Complex flavor profiles</em>
+                <em>Perfiles de sabor complejos</em>
               </li>
               <li>
-                <em>Hygenic and sanitary</em>
+                <em>Higiénico y sanitario</em>
               </li>
             </ul>
           </div>
@@ -64,19 +64,19 @@
             <i class="fa fa-users rounded-circle"></i>
           </div>
           <div class="media-body">
-            <h3 class="media-heading">Community</h3>
+            <h3 class="media-heading">Comunidad</h3>
             <ul>
               <li>
-                <em>Bakery rewards program</em>
+                <em>Programa de recompensas de panadería</em>
               </li>
               <li>
-                <em>Private events</em>
+                <em>Eventos privados</em>
               </li>
               <li>
-                <em>Personal catering menus</em>
+                <em>Menús de catering personal>
               </li>
               <li>
-                <em>Nightly community specials</em>
+                <em>Especiales nocturnos de la comunidad</em>
               </li>
             </ul>
           </div>

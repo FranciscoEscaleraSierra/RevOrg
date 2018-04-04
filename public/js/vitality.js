@@ -74,6 +74,25 @@ $(document).ready(function() {
     $(this).removeClass("floating-label-form-group-with-focus");
   });
 
+  // Contact form
+  $('.popup-with-form').magnificPopup({
+    type: 'inline',
+    preloader: false,
+    closeBtnInside: false,
+
+    // When elemened is focused, some mobile browsers in some cases zoom in
+    // It looks not nice, so we disable it:
+    callbacks: {
+      beforeOpen: function() {
+        if($(window).width() < 700) {
+          this.st.focus = false;
+        } else {
+          this.st.focus = '#name';
+        }
+      }
+    }
+  });
+
   // Owl Carousel Settings
   $(".team-carousel").owlCarousel({
     items: 3,
@@ -118,6 +137,7 @@ $(document).ready(function() {
   // Magnific Popup jQuery Lightbox Gallery Settings
   $('.gallery-link').magnificPopup({
     type: 'image',
+    closeBtnInside: false,
     gallery: {
       enabled: true
     },
@@ -129,6 +149,7 @@ $(document).ready(function() {
   // Magnific Popup Settings
   $('.mix').magnificPopup({
     type: 'image',
+    closeBtnInside: false,
     image: {
       titleSrc: 'title'
     }
@@ -142,4 +163,16 @@ $(document).ready(function() {
     posterType: 'jpg'
   });
 
+  //Magnific Popup jQuery Lightbox Map Settings
+  $('.popup-map').magnificPopup({
+    disableOn: 700,
+    closeBtnInside: false,
+    type: 'iframe',
+    removalDelay: 160,
+    preloader: true,
+
+    fixedContentPos: false
+  });
+
 })(jQuery); // End of use strict
+  //

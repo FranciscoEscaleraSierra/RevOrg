@@ -1,22 +1,22 @@
 <!-- People Section -->
 <section class="page-section bg-light" id="people">
   <div class="container text-center wow fadeIn">
-    <h2>People</h2>
-    <p class="mb-0">We are a group of professionals and artisan chefs with a passion for culinary excellence.</p>
+    <h2>Personas</h2>
+    <p class="mb-0">Somos un grupo de profesionales y chefs artesanales con una pasión por la excelencia culinaria.</p>
     <hr class="colored">
     <div class="team-carousel owl-carousel owl-theme mt-4">
 
       <!-- Team Carousel Item 1 -->
       <div class="item">
         <div class="overlay"></div>
-        <img class="img-fluid" src="img/culinary/people/1.jpg" alt="">
+        <img class="img-fluid" src="img_rev_org/people/MarisolGuzmanSánchez.jpg" alt="">
         <div class="team-caption">
-          <h3>Alan Wimbledon</h3>
+          <h3>Marisol Guzman Sánchez</h3>
           <hr class="colored">
-          <em>Owner</em>
+          <em>Propietario</em>
           <ul class="list-inline list-team-social">
             <li class="list-inline-item">
-              <a href="#">
+              <a href="https://www.facebook.com/mariisool.guzman" target="_blank">
                 <i class="fa fa-facebook fa-fw"></i>
               </a>
             </li>
@@ -37,14 +37,14 @@
       <!-- Team Carousel Item 2 -->
       <div class="item">
         <div class="overlay"></div>
-        <img class="img-fluid" src="img/culinary/people/2.jpg" alt="">
+        <img class="img-fluid" src="img_rev_org/people/EmmanuelGuzmanSánchez.jpg" alt="">
         <div class="team-caption">
-          <h3>Jeffery Howard</h3>
+          <h3>Emmanuel Guzman Sánchez</h3>
           <hr class="colored">
-          <em>Executive Chef</em>
+          <em>Propietario</em>
           <ul class="list-inline list-team-social">
             <li class="list-inline-item">
-              <a href="#">
+              <a href="https://www.facebook.com/emmanuel.g.5" target="_blank">
                 <i class="fa fa-facebook fa-fw"></i>
               </a>
             </li>
@@ -65,14 +65,14 @@
       <!-- Team Carousel Item 3 -->
       <div class="item">
         <div class="overlay"></div>
-        <img class="img-fluid" src="img/culinary/people/3.jpg" alt="">
+        <img class="img-fluid" src="img_rev_org/people/DanielGuzmanSánchez.jpg" alt="">
         <div class="team-caption">
-          <h3>Kenny Williams</h3>
+          <h3>Daniel Guzman Sánchez</h3>
           <hr class="colored">
-          <em>Executive Chef</em>
+          <em>Propietario</em>
           <ul class="list-inline list-team-social">
             <li class="list-inline-item">
-              <a href="#">
+              <a href="https://www.facebook.com/daniel.guzmansanches.3" target="_blank">
                 <i class="fa fa-facebook fa-fw"></i>
               </a>
             </li>

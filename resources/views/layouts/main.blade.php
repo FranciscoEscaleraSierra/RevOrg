@@ -32,7 +32,7 @@
     <!-- <link href="css/vitality-aqua.css" rel="stylesheet" type="text/css"> -->
     <!-- <link href="css/vitality-blue.css" rel="stylesheet" type="text/css"> -->
     <!-- <link href="css/vitality-green.css" rel="stylesheet" type="text/css"> -->
-    <!-- <link href="css/vitality-orange.css" rel="stylesheet" type="text/css"> -->º
+    <!-- <link href="css/vitality-orange.css" rel="stylesheet" type="text/css"> -->
     <!-- <link href="css/vitality-pink.css" rel="stylesheet" type="text/css"> -->
     <!-- <link href="css/vitality-purple.css" rel="stylesheet" type="text/css"> -->
     <!-- <link href="css/vitality-tan.css" rel="stylesheet" type="text/css"> -->
@@ -44,6 +44,8 @@
     <link id="changeable-colors" rel="stylesheet" href="css/vitality-tan.css">
     <link href="demo/style-switcher.css" rel="stylesheet">
     <!-- /build -->
+    <!-- favicon -->
+    <link rel="icon" href="img_rev_org/main.jpg" type="image/png" />
 
   </head>
 
